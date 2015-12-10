@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#CBCBCB</color>
+    <color name="blue">#84ECE6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray2">#5D5D5D</color>
+    <color name="next71">#FFDB6A</color>
+    <color name="next72">#A0E7FF</color>
+    <color name="next73">#FFC4EA</color>
+    <color name="next74">#C4FFA5</color>
+    <color name="next75">#FFBDB7</color>
+    <color name="next76">#EFFFB5</color>
+    <color name="next77">#BCBEFF</color>
+    <color name="btndefault">#D6D7D7</color>
+</resources>
